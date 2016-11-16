@@ -1,0 +1,2 @@
+.\hello_world1.exe file ./data/FILE_NAME threads 4 c_dists_prop 1 c_deltas_prop 1 min_delta 3 min_size 20 max_size 200 min_tail 6 max_tail 15
+.\hello_world1.exe file ./data/FILE_NAME threads 4 c_dir_piks 1 c_piks_with_data 1 min_delta 3 min_size 20 max_size 200 min_tail 6 max_tail 15
